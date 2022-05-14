@@ -1,9 +1,3 @@
-/**
-* Template Name: Appland - v4.7.0
-* Template URL: https://bootstrapmade.com/free-bootstrap-app-landing-page-template/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
 (function() {
   "use strict";
 
@@ -161,7 +155,7 @@
     loop: true,
     centeredSlides: true,
     autoplay: {
-      delay: 5000,
+      delay: 4000,
       disableOnInteraction: false
     },
     slidesPerView: 'auto',
