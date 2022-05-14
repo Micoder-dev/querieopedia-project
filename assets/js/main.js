@@ -155,7 +155,7 @@
     loop: true,
     centeredSlides: true,
     autoplay: {
-      delay: 4000,
+      delay: 3500,
       disableOnInteraction: false
     },
     slidesPerView: 'auto',
@@ -178,7 +178,7 @@
         spaceBetween: 30
       },
       1200: {
-        slidesPerView: 7,
+        slidesPerView: 5,
         spaceBetween: 30
       }
     }
